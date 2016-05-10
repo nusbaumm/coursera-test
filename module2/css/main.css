@@ -29,37 +29,25 @@ div#container {
   
   }
 
-
-#p2 {
+.p0 {
   border: 2px solid black;
   position: absolute;
   margin-top: 0;
   top: 0;
   right: 0;
   width: 100px;
-  text-align: center; 
+  text-align: center;   
+}
+
+.p2 {  
   background-color: purple;
   
 }
-#p3 {
-  border: 2px solid black;
-  position: absolute;
-  margin-top: 0;
-  top: 0;
-  right: 0;
-  width: 100px;
-  text-align: center; 
+.p3 {  
   background-color: orange; 
 }
 
-#p4 {
-  border: 2px solid black;
-  position: absolute;
-  margin-top: 0;
-  top: 0;
-  right: 0;
-  width: 100px;
-  text-align: center; 
+.p4 {
   background-color: red;
 }
 
